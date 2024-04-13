@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "Education":"" ,
+    "role":"Btech/BE",
+    "organisation": "Google",
+    "startDate": "Aug, 2021",
+    "endDate": "june, 2024",
+    "location": "",
+    "experiences": [
+    "stream-> computer science and technology",
+    "collage-> techno international batanagar "
+    ],
+    "imageSrc": "company/logo1.png",
+    "watch":"https://tib.edu.in/"
+    
+  },
+  {
+    "id": 2,
+    "role": "web dev intership ",
+    "organisation": "Mirosoft",
+    "startDate": "march, 2024",
+    "endDate": "may, 2024",
+    "location": "Q/A",
+    "experiences": [
+      "Intership",
+      "Working on Drycode  as a web developer"
+      
+      
+    ],
+    "imageSrc": "skills/react.png",
+    "watch":"https://drive.google.com/file/d/18qjdWx4_Chk0H2kK4_iIdnnX7WHt5nt2/view?usp=sharing"
+  },
+  {
+    "id": 3,
+    "role": "React Certification",
+    "organisation": "Netflix",
+    "startDate": "march, 2024",
+    "endDate": "april, 2024",
+    "location": "Udemy",
+    "experiences": [
+      "course",
+      "practiced react q/a"
+  
+    ],
+    "imageSrc": "skills/react.png",
+    "watch":"https://drive.google.com/file/d/1FjzjMoMyisaO7JDMv-Y_aeZJ0z5Or5-r/view?usp=sharing"
+
+
+  }
+]
